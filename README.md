@@ -35,15 +35,22 @@
 - ✨Magic ✨
 
 ## Цель работы
-Ознакомиться с основными операторами языка Python на примере реализации линейной регрессии.
+Познакомиться с программными средствами для создания системы машинного обучения и ее интеграции в Unity.
 
-## Задание 1
-Код реализации представлен в виде скринов
-Скрины реализации первого задания: 
-![изображение](https://user-images.githubusercontent.com/98802409/192473422-da4905cc-faf0-48ff-bf28-bb91d2490d5b.png)
-![изображение](https://user-images.githubusercontent.com/98802409/192473620-2192140f-3ae7-4fa4-b368-a5a8bfe2c4f0.png)
-![изображение](https://user-images.githubusercontent.com/98802409/192473665-74552736-dd6b-4aeb-b055-621f286f6f44.png)
-![изображение](https://user-images.githubusercontent.com/98802409/192498328-d2a389f3-94fa-460e-81c8-13764500eba7.png)
+## Задание 1 - Реализовать систему машинного обучения в связке Python - Google-Sheets – Unity.
+
+Реализация заданий представлена в виде скринов
+1. Установить нужные библиотеки: 
+![изображение](https://user-images.githubusercontent.com/98802409/198307579-7f3e0554-f7c1-48f5-a30e-cebeacc13f1b.png)
+![изображение](https://user-images.githubusercontent.com/98802409/198307661-26278b2e-c5ea-49af-8430-e32373dc8235.png)
+
+2. Создать на сцене плоскость, куб и сферу:
+![изображение](https://user-images.githubusercontent.com/98802409/198323924-83a1c293-b916-40d3-acd4-0cbce74c96e4.png)
+3. Добавить скрипт RollerAgent.cs и настроить компоненты для RollerAgent:
+![изображение](https://user-images.githubusercontent.com/98802409/198324194-0e7426eb-57b9-47ff-9303-eafb0b554aff.png)
+![изображение](https://user-images.githubusercontent.com/98802409/198324284-85fa6b84-d376-47fb-8ead-22d9e17fe687.png)
+
+
 
 
 ## Задание 2
