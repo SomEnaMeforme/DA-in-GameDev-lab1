@@ -53,7 +53,7 @@
 4. Запустить работу ml-агента
 ![изображение](https://user-images.githubusercontent.com/98802409/200939505-afdc5bec-c253-420d-9e6e-1da9f0126057.png)
 5. Работа агента на 1 полигоне:
-![видео](https://drive.google.com/file/d/10lMyYUH6YICO2dCoZ3Pv8w31vwK8JFp5/view?usp=share_link)
+![изображение](https://drive.google.com/file/d/10lMyYUH6YICO2dCoZ3Pv8w31vwK8JFp5/view?usp=share_link)
 
 
 
