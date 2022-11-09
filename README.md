@@ -54,6 +54,11 @@
 ![изображение](https://user-images.githubusercontent.com/98802409/200939505-afdc5bec-c253-420d-9e6e-1da9f0126057.png)
 5. Работа агента на 1 полигоне:
 ![image](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-1.gif)
+9 полигонов:
+
+результат:
+![изображение](https://user-images.githubusercontent.com/98802409/200949926-f23cad0a-cdb7-4590-85cd-010d4ae445ca.png)
+
 
 
 
