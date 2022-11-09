@@ -41,15 +41,19 @@
 
 Реализация заданий представлена в виде скринов
 1. Установить нужные библиотеки: 
-![изображение](https://user-images.githubusercontent.com/98802409/198307579-7f3e0554-f7c1-48f5-a30e-cebeacc13f1b.png)
 ![изображение](https://user-images.githubusercontent.com/98802409/198307661-26278b2e-c5ea-49af-8430-e32373dc8235.png)
+скрин с pytorch потерялся при перезагрузке
 
 2. Создать на сцене плоскость, куб и сферу:
 ![изображение](https://user-images.githubusercontent.com/98802409/198323924-83a1c293-b916-40d3-acd4-0cbce74c96e4.png)
 3. Добавить скрипт RollerAgent.cs и настроить компоненты для RollerAgent:
 ![изображение](https://user-images.githubusercontent.com/98802409/198324194-0e7426eb-57b9-47ff-9303-eafb0b554aff.png)
 ![изображение](https://user-images.githubusercontent.com/98802409/198324284-85fa6b84-d376-47fb-8ead-22d9e17fe687.png)
-4.
+
+4. Запустить работу ml-агента
+![изображение](https://user-images.githubusercontent.com/98802409/200939505-afdc5bec-c253-420d-9e6e-1da9f0126057.png)
+5. Работа агента на 1 полигоне:
+![видео](https://drive.google.com/file/d/10lMyYUH6YICO2dCoZ3Pv8w31vwK8JFp5/view?usp=share_link)
 
 
 
