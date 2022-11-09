@@ -49,6 +49,7 @@
 3. Добавить скрипт RollerAgent.cs и настроить компоненты для RollerAgent:
 ![изображение](https://user-images.githubusercontent.com/98802409/198324194-0e7426eb-57b9-47ff-9303-eafb0b554aff.png)
 ![изображение](https://user-images.githubusercontent.com/98802409/198324284-85fa6b84-d376-47fb-8ead-22d9e17fe687.png)
+4.
 
 
 
