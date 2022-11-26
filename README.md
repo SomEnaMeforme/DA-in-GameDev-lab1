@@ -104,6 +104,7 @@ extrinsic:
 ![изображение](https://user-images.githubusercontent.com/98802409/204083759-70f1dfc1-1662-4658-a1cc-476ed740caa5.png)
 Поведение агента после того, как была изменена модель: 
 ![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-3.2.gif)
+
 Код выполнения можно найти в файлах в данной ветке
 
 
