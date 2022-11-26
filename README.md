@@ -1,5 +1,5 @@
 # АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
-Отчет по лабораторной работе #1 выполнил(а):
+Отчет по лабораторной работе #3 выполнил(а):
 - Рушкова Ольга Игоревна
 - РИ210940
 Отметка о выполнении заданий (заполняется студентом):
@@ -8,7 +8,7 @@
 | ------ | ------ | ------ |
 | Задание 1 | * | 60 |
 | Задание 2 | * | 20 |
-| Задание 3 | # | 20 |
+| Задание 3 | * | 20 |
 
 знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
@@ -51,10 +51,10 @@
 4. Запустить работу ml-агента
 ![изображение](https://user-images.githubusercontent.com/98802409/200939505-afdc5bec-c253-420d-9e6e-1da9f0126057.png)
 5. Работа агента на 1 полигоне:
-![image](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-1.gif)
+![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-1.gif)
 9 полигонов:
 
-![image](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-9.gif)
+![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-9.gif)
 результат:
 ![изображение](https://user-images.githubusercontent.com/98802409/200949926-f23cad0a-cdb7-4590-85cd-010d4ae445ca.png)
 28 полигонов:
@@ -98,7 +98,15 @@ extrinsic:
  
 
 ## Задание 3
--
+Обучение агента (16 площадок): 
+![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-3.1.gif)
+Промежуточные результаты обучения агента: 
+![изображение](https://user-images.githubusercontent.com/98802409/204083759-70f1dfc1-1662-4658-a1cc-476ed740caa5.png)
+Поведение агента после того, как была изменена модель: 
+![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_3/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-3.2.gif)
+Код выполнения можно найти в файлах в данной ветке
+
+
 ## Выводы
 
 Абзац умных слов о том, что было сделано и что было узнано:
