@@ -167,8 +167,14 @@
 
 ## Задание 3
 ### Построить визуальную модель работы перцептрона на сцене Unity
-
-
+Код реализации в прикреплённых файлах. 
+Визуализация: 
+1. AND
+![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_4/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-AND.gif)
+2. OR
+![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_4/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-OR.gif)
+3. NAND
+![изображение](https://github.com/SomEnaMeforme/DA-in-GameDev-lab1/blob/task_4/%D0%B4%D0%BB%D1%8F%20%D0%BB%D0%B0%D0%B1%D1%8B%20-NAND.gif)
 
 
 ## Выводы
