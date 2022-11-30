@@ -73,8 +73,9 @@
 ![изображение](https://user-images.githubusercontent.com/98802409/204864983-d078b7a8-0a38-4370-bb8b-e06a9d84fc42.png)
 
 
- 4 запуск, 
+ 4 запуск, увеличена beta (в 10 раз)
     4.1 Параметры yaml
+![изображение](https://user-images.githubusercontent.com/98802409/204867168-ee3fb6f2-1117-49a7-9545-5ffc630e3e6a.png)
 
 
 
