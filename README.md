@@ -74,12 +74,19 @@
 
 
  4 запуск, увеличена beta (в 10 раз)
+ 
     4.1 Параметры yaml
+    
 ![изображение](https://user-images.githubusercontent.com/98802409/204867168-ee3fb6f2-1117-49a7-9545-5ffc630e3e6a.png)
 
 
 
     4.2 Получившиеся графики + результаты обучения
+    
+    ![изображение](https://user-images.githubusercontent.com/98802409/204867560-8b23e995-1951-4df6-8a64-a5dc5fb0b30d.png)
+
+![изображение](https://user-images.githubusercontent.com/98802409/204867763-d09f7a12-60fd-4e62-9f85-bf0c97758c65.png)
+
 
 
 5 запуск, 
