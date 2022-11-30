@@ -42,7 +42,7 @@
 
     1.1 Параметры yaml
 
-    ![изображение](https://user-images.githubusercontent.com/98802409/204874411-f6b848e9-592b-4ee1-b5a1-797656ddf618.png)
+![изображение](https://user-images.githubusercontent.com/98802409/204874411-f6b848e9-592b-4ee1-b5a1-797656ddf618.png)
 
 
     1.2 Получившиеся графики + результаты обучения
