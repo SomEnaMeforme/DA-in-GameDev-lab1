@@ -42,7 +42,7 @@
 
     1.1 Параметры yaml
 
-![изображение](https://user-images.githubusercontent.com/98802409/204874411-f6b848e9-592b-4ee1-b5a1-797656ddf618.png)
+    ![изображение](https://user-images.githubusercontent.com/98802409/204874411-f6b848e9-592b-4ee1-b5a1-797656ddf618.png)
 
 
     1.2 Получившиеся графики + результаты обучения
@@ -86,7 +86,7 @@
 
     4.2 Получившиеся графики + результаты обучения
     
-    ![изображение](https://user-images.githubusercontent.com/98802409/204867560-8b23e995-1951-4df6-8a64-a5dc5fb0b30d.png)
+![изображение](https://user-images.githubusercontent.com/98802409/204867560-8b23e995-1951-4df6-8a64-a5dc5fb0b30d.png)
 
 ![изображение](https://user-images.githubusercontent.com/98802409/204867763-d09f7a12-60fd-4e62-9f85-bf0c97758c65.png)
 
@@ -121,7 +121,7 @@
 ![изображение](https://user-images.githubusercontent.com/98802409/204874029-6948b731-254b-4b0f-9369-88a8580a1429.png)
  
  
-
+Выводы: 
 
 
 
