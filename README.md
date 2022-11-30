@@ -52,17 +52,18 @@
 ![изображение](https://user-images.githubusercontent.com/98802409/204847174-885a1615-8d15-4fa2-8c88-bec926967946.png)
 
 
-2 запуск, увеличены параметры epsilon и learning_rate
+2 запуск, увеличены параметр batch-size
 
     2.1 Параметры yaml
 
-![изображение](https://user-images.githubusercontent.com/98802409/204858029-ed70a8b6-9421-44e0-a7f9-7ecd537fb85b.png)
+![изображение](https://user-images.githubusercontent.com/98802409/204893911-c0315f65-0068-471a-80a4-26653e6e0990.png)
 
     2.2 Получившиеся графики + результаты обучения
  
- ![изображение](https://user-images.githubusercontent.com/98802409/204858601-99e73156-76d6-43cb-94b6-c8553de249c8.png)
+ ![изображение](https://user-images.githubusercontent.com/98802409/204894725-d9d075c5-b780-4061-ab24-012120332cbc.png)
  
- ![изображение](https://user-images.githubusercontent.com/98802409/204858671-ad5572a9-3320-4583-ab96-4402274b069a.png)
+ ![изображение](https://user-images.githubusercontent.com/98802409/204894875-62053987-b156-4fc5-8a99-41ead2fdd3f7.png)
+
  
 3 запуск, увеличен параметр strength
     3.1 Параметры yaml
@@ -76,21 +77,20 @@
 ![изображение](https://user-images.githubusercontent.com/98802409/204864983-d078b7a8-0a38-4370-bb8b-e06a9d84fc42.png)
 
 
- 4 запуск, увеличена beta (в 10 раз)
+ 4 запуск, уменьшен hidden_units 
  
     4.1 Параметры yaml
     
-![изображение](https://user-images.githubusercontent.com/98802409/204867168-ee3fb6f2-1117-49a7-9545-5ffc630e3e6a.png)
+![изображение](https://user-images.githubusercontent.com/98802409/204892610-04674210-e8d8-493b-8efd-7ddbef3a5be4.png)
 
 
 
     4.2 Получившиеся графики + результаты обучения
     
-![изображение](https://user-images.githubusercontent.com/98802409/204867560-8b23e995-1951-4df6-8a64-a5dc5fb0b30d.png)
+![изображение](https://user-images.githubusercontent.com/98802409/204892478-4fdf4541-5017-45e6-8baa-06deea8a26f1.png)
 
-![изображение](https://user-images.githubusercontent.com/98802409/204867763-d09f7a12-60fd-4e62-9f85-bf0c97758c65.png)
+![изображение](https://user-images.githubusercontent.com/98802409/204892553-234b68cc-c09d-4c79-b49a-e87e72ea721a.png)
 
-![изображение](https://user-images.githubusercontent.com/98802409/204869414-ceb1cc38-bade-4b81-b537-3a0d88eb8d33.png)
 
 
 
@@ -122,6 +122,7 @@
  
  
 Выводы: 
+
 
 
 
