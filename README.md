@@ -87,6 +87,9 @@
 
 ![изображение](https://user-images.githubusercontent.com/98802409/204867763-d09f7a12-60fd-4e62-9f85-bf0c97758c65.png)
 
+![изображение](https://user-images.githubusercontent.com/98802409/204869414-ceb1cc38-bade-4b81-b537-3a0d88eb8d33.png)
+
+
 
 
 5 запуск, 
