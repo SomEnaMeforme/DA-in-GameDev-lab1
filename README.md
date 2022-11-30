@@ -51,6 +51,7 @@
 
 
 2 запуск, увеличены параметры epsilon и learning_rate
+
     2.1 Параметры yaml
 
 ![изображение](https://user-images.githubusercontent.com/98802409/204858029-ed70a8b6-9421-44e0-a7f9-7ecd537fb85b.png)
@@ -93,6 +94,7 @@
 
 
 5 запуск, увеличено количество эпох
+
     5.1 Параметры yaml
 
 ![изображение](https://user-images.githubusercontent.com/98802409/204870475-1d1a5c2c-11bb-43da-9383-b3a06df9fb12.png)
@@ -105,7 +107,17 @@
 ![изображение](https://user-images.githubusercontent.com/98802409/204870798-780e1fb1-7f51-4f4b-9ef1-37461cda076c.png)
 
 
+6 запуск(просто эксперимента ради), уменьшен параметр gamma до 0,5
 
+    6.1 Параметры yaml
+![изображение](https://user-images.githubusercontent.com/98802409/204874065-0b8a4b59-19bf-4a89-8ad9-09dbd5201506.png)
+
+    6.2 Графики + результаты обучения
+    
+![изображение](https://user-images.githubusercontent.com/98802409/204873992-08172efc-321d-4c4d-9a2c-444f5a31b416.png)
+
+![изображение](https://user-images.githubusercontent.com/98802409/204874029-6948b731-254b-4b0f-9369-88a8580a1429.png)
+ 
  
 
 
