@@ -92,13 +92,17 @@
 
 
 
-5 запуск, 
+5 запуск, увеличено количество эпох
     5.1 Параметры yaml
 
+![изображение](https://user-images.githubusercontent.com/98802409/204870475-1d1a5c2c-11bb-43da-9383-b3a06df9fb12.png)
 
 
 
     5.2 Получившиеся графики + результаты обучения
+
+![изображение](https://user-images.githubusercontent.com/98802409/204870408-ac59f693-a324-4004-a899-5a9e945c18f3.png)
+![изображение](https://user-images.githubusercontent.com/98802409/204870798-780e1fb1-7f51-4f4b-9ef1-37461cda076c.png)
 
 
 
